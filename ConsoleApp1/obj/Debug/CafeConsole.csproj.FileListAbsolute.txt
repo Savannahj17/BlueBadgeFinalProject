@@ -1,0 +1,2 @@
+C:\Users\Savannah\source\repos\KomodoCafe\ConsoleApp1\obj\Debug\CafeConsole.csproj.AssemblyReference.cache
+C:\Users\Savannah\source\repos\KomodoCafe\ConsoleApp1\obj\Debug\CafeConsole.csproj.CoreCompileInputs.cache
